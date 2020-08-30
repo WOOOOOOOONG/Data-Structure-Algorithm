@@ -5,7 +5,7 @@
 
 ## 1. 자료구조
 ### 1-1. <a href="https://readerr.tistory.com/33" target="_blank">List</a>
-#### 구현 파일 경로 : src/List
+####  구현 파일 경로 : src/List
 ### 1-2. Stack/Queue
 ### 1-3. Tree/Graph
 ### 1-4. Map/Set
