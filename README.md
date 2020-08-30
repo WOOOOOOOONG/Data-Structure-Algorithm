@@ -4,7 +4,7 @@
 개별적인 학습과 더불어 학습한 내용을 정리하기 위한 공간입니다.
 
 ## 1. 자료구조
-### 1-1. List
+### 1-1. <a href="https://readerr.tistory.com/33">List</a>
 ### 1-2. Stack/Queue
 ### 1-3. Tree/Graph
 ### 1-4. Map/Set
