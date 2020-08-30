@@ -4,23 +4,24 @@ package List.LinkedList;
 public class LinkedList {
 	// 노드 정의
 	private class Node {
-		Node prev;
-		int data;
-		Node next;
+		Node prev; // 이전 노드의 정보를 가지고 있는 객체
+		int data; // 현재 노드에 들어있는 값
+		Node next; // 다음 노드의 정보를 가지고 있는 객체
 
-		Node() {
-		}
-
+		Node() {}
+		
+		// 노드에 값을 바로 삽입하기 위한 생성자
 		Node(int data) {
 			this.data = data;
 		}
 	}
 
-	private Node head;
-	private Node tail;
-	private Node cur;
-	private int size;
+	private Node head; // 가장 앞 노드의 정보를 가지고 있음
+	private Node tail; // 가장 뒤 노드의 정보를 가지고 있음
+	private Node cur; // 현재 가리키고 있는 노드의 정보를 가지고 있음
+	private int size; // 현재 리스트의 크기
 
+	// 노드 초기화를 위한 생성자 정의
 	public LinkedList() {
 		head = new Node();
 		tail = new Node();
