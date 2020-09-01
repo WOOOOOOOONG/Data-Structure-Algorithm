@@ -8,12 +8,13 @@
 ####  구현 파일 경로 : src/List
 ### 1-2. <a href="https://readerr.tistory.com/34" target="_blank">Stack/Queue</a>
 ####  구현 파일 경로 : src/Stack_Queue
-### 1-3. Tree/Graph
+### 1-3. <a href="https://readerr.tistory.com/35">Tree</a>
+####  구현 파일 경로 : src/Tree
 ### 1-4. Map/Set
 ## 2. 알고리즘
 ### 2-1. Sort
 ### 2-2. Search
-### 2-3. Hash
-### 2-4. DFS/BFS
+### 2-3. Graph(DFS/BFS)
+### 2-4. Hash
 ### 2-5. Greedy
 ### 2-6. Dynamic Programming
